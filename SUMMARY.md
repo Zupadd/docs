@@ -1,0 +1,18 @@
+# Table of contents
+
+* [WELCOME ZUPAD](README.md)
+  * [BACKED](master/backed/README.md)
+    * [Partners](master/backed/partners.md)
+    * [Teams](master/backed/teams.md)
+  * [SOCIAL](master/social.md)
+  * [SERVICES](master/services/README.md)
+    * [Introduction](master/services/introduction.md)
+    * [Full Launchpad Package](master/services/full-launchpad-package.md)
+    * [Market Marker (MM)](master/services/market-marker-mm.md)
+  * [FOR USER](master/for-user.md)
+  * [NOTICES](master/notices.md)
+  * [DISCLAIMER](master/disclaimer.md)
+* [AIRDROP](airdrop/README.md)
+  * [XTOM](airdrop/xtom.md)
+* [IDO](ido/README.md)
+  * [Shiba Ton](ido/shiba-ton.md)
