@@ -6,9 +6,9 @@ Prepare your X account and Arbitrum network wallet address for an exciting adven
 
 _**\*Basic Information**_
 
-* **Token Name: XSnake**
+* **Token Name: XTom**
 * **Total Supply: 100.000.000.000**
-* **Token Ticker: XSN**
+* **Token Ticker: XTM**
 * **Chain: TBA**
 * **Decimal: TBA**
 * **Contract address: TBA**
