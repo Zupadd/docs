@@ -6,4 +6,13 @@ _**\*Basic Information**_
 
 _**\*Allocation**_
 
-<table><thead><tr><th width="140" align="center">Distribution</th><th width="120" align="center">Percentage</th><th align="center">Allocation</th></tr></thead><tbody><tr><td align="center">Airdrop</td><td align="center">5%</td><td align="center">50,000,000</td></tr><tr><td align="center">Seed </td><td align="center">10%</td><td align="center">100,000,000</td></tr><tr><td align="center">IDO</td><td align="center">1%</td><td align="center">10,000,000</td></tr><tr><td align="center">Private</td><td align="center">10%</td><td align="center">100,000,000</td></tr><tr><td align="center">Team</td><td align="center">20%</td><td align="center">200,000,000</td></tr><tr><td align="center">Advisor</td><td align="center">5%</td><td align="center">50,000,000</td></tr><tr><td align="center">Marketing</td><td align="center">9%</td><td align="center">90,000,000</td></tr><tr><td align="center">Reward</td><td align="center">40%</td><td align="center">400,000,000</td></tr></tbody></table>
+| Distribution | Percentage | Allocation  |
+| ------------ | ---------- | ----------- |
+| Airdrop      | 5%         | 50.000.000  |
+| Seed         | 10%        | 100.000.000 |
+| Private      | 10%        | 100.000.000 |
+| IDO          | 1%         | 10.000.000  |
+| Team         | 20%        | 200.000.000 |
+| Advisor      | 5%         | 50.000.000  |
+| Marketing    | 9%         | 90.000.000  |
+| Reward       | 40%        | 400.000.000 |
