@@ -15,7 +15,6 @@
 * [TOKENOMICS](tokenomics.md)
 * [AIRDROP](airdrop/README.md)
   * [XTOM](airdrop/xtom.md)
-* [IDO](ido/README.md)
-  * [Shiba Ton](ido/shiba-ton.md)
+* [IDO](ido.md)
 * [Presale](presale/README.md)
   * [Document](presale/document.md)
