@@ -17,3 +17,5 @@
 * [IDO](ido.md)
 * [Presale](presale/README.md)
   * [Document](presale/document.md)
+  * [Meme](presale/meme/README.md)
+    * [Catzifhat](presale/meme/catzifhat.md)
