@@ -14,9 +14,4 @@ _**\*Basic Information**_
 
 _**\*Allocation**_
 
-| Distribution | Percentage | Allocation     |
-| ------------ | ---------- | -------------- |
-| Airdrop      | 80%        | 80.000.000.000 |
-| Private      | 10%        | 5.000.000.000  |
-| Team         | 5%         | 5.000.000.000  |
-| Liquidity    | 5%         | 10.000.000.000 |
+<table><thead><tr><th width="159">Distribution</th><th width="201">Percentage</th><th>Allocation</th></tr></thead><tbody><tr><td>Airdrop</td><td>80%</td><td>80.000.000.000</td></tr><tr><td>Private</td><td>10%</td><td>5.000.000.000</td></tr><tr><td>Team</td><td>5%</td><td>5.000.000.000</td></tr><tr><td>Liquidity</td><td>5%</td><td>10.000.000.000</td></tr></tbody></table>

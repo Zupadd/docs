@@ -19,3 +19,5 @@
   * [Document](presale/document.md)
   * [Meme](presale/meme/README.md)
     * [Catzifhat](presale/meme/catzifhat.md)
+    * [Dogzifhat](presale/meme/dogzifhat.md)
+    * [ZBonk](presale/meme/zbonk.md)
