@@ -4,13 +4,7 @@ Duckz, the gangster of memes, is here to rule with swagger! Join the flock, make
 
 _**\*Basic Information**_
 
-| Fullname         | Duckz           |
-| ---------------- | --------------- |
-| Symbol           | DUZ             |
-| Total supply     | 190,000,000,000 |
-| Network          |                 |
-| Decimal          |                 |
-| Contract Address |                 |
+<table data-header-hidden><thead><tr><th width="276"></th><th></th></tr></thead><tbody><tr><td>Fullname</td><td>Duckz</td></tr><tr><td>Symbol</td><td>DUZ</td></tr><tr><td>Total supply</td><td>190,000,000,000</td></tr><tr><td>Network</td><td>Binance Smart Chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Contract address</td><td></td></tr><tr><td>Reflection</td><td></td></tr></tbody></table>
 
 _**\*Allocation**_
 

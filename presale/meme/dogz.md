@@ -4,13 +4,7 @@ Dogz, inspired by Pavel Durov’s legendary pup, is here to dominate the memever
 
 _**\*Basic Information**_
 
-| Fullname         | Dogz            |
-| ---------------- | --------------- |
-| Symbol           | DOGZ            |
-| Total supply     | 160,000,000,000 |
-| Network          |                 |
-| Decimal          |                 |
-| Contract Address |                 |
+<table data-header-hidden><thead><tr><th width="215"></th><th></th></tr></thead><tbody><tr><td>Fullname</td><td>Dogz</td></tr><tr><td>Symbol</td><td>DOZ</td></tr><tr><td>Total supply</td><td>160,000,000,000</td></tr><tr><td>Network</td><td>Binance Smart Chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Contract address</td><td>0x32a9241b6727c99dbc5cc3e65bafb9c098620ad3</td></tr><tr><td>Reflection</td><td>2%</td></tr></tbody></table>
 
 _**\*Allocation**_
 

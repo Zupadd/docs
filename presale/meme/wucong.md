@@ -4,13 +4,7 @@ Join the Monkey King for a whimsical adventure filled with hilarious antics, and
 
 _**\*Basic Information**_
 
-| Fullname         | Wucong          |
-| ---------------- | --------------- |
-| Symbol           | WC              |
-| Total supply     | 290,000,000,000 |
-| Network          |                 |
-| Decimal          |                 |
-| Contract Address |                 |
+<table data-header-hidden><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Fullname</td><td>Wucong</td></tr><tr><td>Symbol</td><td>WC</td></tr><tr><td>Total supply</td><td>290,000,000,000</td></tr><tr><td>Network</td><td>Binance Smart Chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Contract address</td><td>0xca53df420319c0f14de9ee1f63860ad5a9b58bec</td></tr><tr><td>Reflection</td><td>5%</td></tr></tbody></table>
 
 _**\*Allocation**_
 

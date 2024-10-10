@@ -4,13 +4,7 @@ The lovable pig is here to spread joy and help everyone in the meme world! Join 
 
 _**\*Basic Information**_
 
-| Fullname         | Pigz            |
-| ---------------- | --------------- |
-| Symbol           | PIGZ            |
-| Total supply     | 220,000,000,000 |
-| Network          |                 |
-| Decimal          |                 |
-| Contract Address |                 |
+<table data-header-hidden><thead><tr><th width="215"></th><th></th></tr></thead><tbody><tr><td>Fullname</td><td>Pigz</td></tr><tr><td>Symbol</td><td>PIGZ</td></tr><tr><td>Total supply</td><td>220,000,000,000</td></tr><tr><td>Network</td><td>Binance Smart Chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Contract address</td><td>0xba9cb500b7ec8404013a7f0f75a6bf9b8151c50a</td></tr><tr><td>Reflection</td><td>3%</td></tr></tbody></table>
 
 _**\*Allocation**_
 

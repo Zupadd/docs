@@ -4,13 +4,7 @@ Catzifhat is the new meme boss, mixing cat coolness with Dogwifhat humor! Cats a
 
 _**\*Basic Information**_
 
-| Fullname         | Catzifhat       |
-| ---------------- | --------------- |
-| Symbol           | CAZT            |
-| Total supply     | 100,000,000,000 |
-| Network          |                 |
-| Decimal          |                 |
-| Contract Address |                 |
+<table data-header-hidden><thead><tr><th width="220"></th><th></th></tr></thead><tbody><tr><td>Fullname</td><td>Catzifhat</td></tr><tr><td>Symbol</td><td>CAZT</td></tr><tr><td>Total supply</td><td>100,000,000,000</td></tr><tr><td>Network</td><td>Binance Smart Chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Contract address</td><td>0x01dc5583193b94ac899b166e1b5b37e51b03a862</td></tr><tr><td>Reflection</td><td>1%</td></tr></tbody></table>
 
 _**\*Allocation**_
 

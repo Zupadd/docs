@@ -4,13 +4,7 @@ Zbonk – the meme coin that's like Bonk on a sugar rush! Zbonk isn't just here 
 
 _**\*Basic Information**_
 
-| Fullname         | ZBonk           |
-| ---------------- | --------------- |
-| Symbol           | ZBO             |
-| Total supply     | 120,000,000,000 |
-| Network          |                 |
-| Decimal          |                 |
-| Contract Address |                 |
+<table data-header-hidden><thead><tr><th width="236"></th><th></th></tr></thead><tbody><tr><td>Fullname</td><td>ZBonk</td></tr><tr><td>Symbol</td><td>ZBO</td></tr><tr><td>Total supply</td><td>120,000,000,000</td></tr><tr><td>Network</td><td>Binance Smart Chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Contract address</td><td>0x293df867b730c4d82562f73837d3aa394c4f9617</td></tr><tr><td>Reflection</td><td>3%</td></tr></tbody></table>
 
 _**\*Allocation**_
 

@@ -4,13 +4,14 @@ Goatz, the witty meme goat, is here to lead the herd with humor and wisdom! Join
 
 _**\*Basic Information**_
 
-| Fullname         | Goatz           |
-| ---------------- | --------------- |
-| Symbol           | GOTZ            |
-| Total supply     | 200,000,000,000 |
-| Network          |                 |
-| Decimal          |                 |
-| Contract Address |                 |
+| Fullname         | Goatz               |
+| ---------------- | ------------------- |
+| Symbol           | GOTZ                |
+| Total supply     | 200,000,000,000     |
+| Network          | Binance Smart Chain |
+| Decimal          | 18                  |
+| Contract address |                     |
+| Reflection       |                     |
 
 _**\*Allocation**_
 

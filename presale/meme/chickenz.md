@@ -4,13 +4,7 @@ Chickenz is here to wing it and break free in the meme world! Join the flock, ha
 
 _**\*Basic Information**_
 
-| Fullname         | Chickenz        |
-| ---------------- | --------------- |
-| Symbol           | CICZ            |
-| Total supply     | 250,000,000,000 |
-| Network          |                 |
-| Decimal          |                 |
-| Contract Address |                 |
+<table data-header-hidden><thead><tr><th width="198"></th><th></th></tr></thead><tbody><tr><td>Fullname</td><td>Chickenz</td></tr><tr><td>Symbol</td><td>CICZ</td></tr><tr><td>Total supply</td><td>250,000,000,000</td></tr><tr><td>Network</td><td>Binance Smart Chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Contract address</td><td>0x3d07614fd3b281c01cf3dd1fb78346410b7f5465</td></tr><tr><td>Reflection</td><td>6%</td></tr></tbody></table>
 
 _**\*Allocation**_
 

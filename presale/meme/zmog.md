@@ -4,13 +4,7 @@ ZMog is the wild meme beast, bringing chaos and laughs! Jump in and let ZMog tak
 
 _**\*Basic Information**_
 
-| Fullname         | ZMog            |
-| ---------------- | --------------- |
-| Symbol           | ZOG             |
-| Total supply     | 150,000,000,000 |
-| Network          |                 |
-| Decimal          |                 |
-| Contract Address |                 |
+<table data-header-hidden><thead><tr><th width="214"></th><th></th></tr></thead><tbody><tr><td>Fullname</td><td>ZMog</td></tr><tr><td>Symbol</td><td>ZOG</td></tr><tr><td>Total supply</td><td>150,000,000,000</td></tr><tr><td>Network</td><td>Binance Smart Chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Contract address</td><td>0xe24c32159ecab0316efbc129940f8943f1a9e331</td></tr><tr><td>Reflection</td><td>6%</td></tr></tbody></table>
 
 _**\*Allocation**_
 
