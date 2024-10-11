@@ -4,7 +4,7 @@ Duckz, the gangster of memes, is here to rule with swagger! Join the flock, make
 
 _**\*Basic Information**_
 
-<table data-header-hidden><thead><tr><th width="276"></th><th></th></tr></thead><tbody><tr><td>Fullname</td><td>Duckz</td></tr><tr><td>Symbol</td><td>DUZ</td></tr><tr><td>Total supply</td><td>190,000,000,000</td></tr><tr><td>Network</td><td>Binance Smart Chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Contract address</td><td></td></tr><tr><td>Reflection</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="276"></th><th></th></tr></thead><tbody><tr><td>Fullname</td><td>Duckz</td></tr><tr><td>Symbol</td><td>DUZ</td></tr><tr><td>Total supply</td><td>190,000,000,000</td></tr><tr><td>Network</td><td>Binance Smart Chain</td></tr><tr><td>Decimal</td><td>18</td></tr><tr><td>Contract address</td><td>0x82f22766c2872d18773014b89eaec01e9d4742e4</td></tr><tr><td>Reflection</td><td>4%</td></tr></tbody></table>
 
 _**\*Allocation**_
 
