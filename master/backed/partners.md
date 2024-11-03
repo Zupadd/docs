@@ -11,11 +11,11 @@
 
 **Decentralize partner**
 
-| Dex              | Detail                                                       |
-| ---------------- | ------------------------------------------------------------ |
-| Pankage - Bep20  | [https://pancakeswap.finance/](https://pancakeswap.finance/) |
-| Justswap - Trc20 | [https://justswap.io/](https://justswap.io/)                 |
-| UniSwap- Erc20   | [https://uniswap.org/](https://uniswap.org/)                 |
+| Dex                 | Detail                                                       |
+| ------------------- | ------------------------------------------------------------ |
+| Pancakeswap - Bep20 | [https://pancakeswap.finance/](https://pancakeswap.finance/) |
+| Justswap - Trc20    | [https://justswap.io/](https://justswap.io/)                 |
+| UniSwap- Erc20      | [https://uniswap.org/](https://uniswap.org/)                 |
 
 **Centralize partner**
 
